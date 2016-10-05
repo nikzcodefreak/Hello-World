@@ -7,7 +7,7 @@ PORTB=0X00;
 while(1)
 {
 PORTB=0X00;
-delay(400);
+delay(500);
 PORTB=0XFF;
 }
 }
